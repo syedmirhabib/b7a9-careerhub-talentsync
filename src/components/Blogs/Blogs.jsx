@@ -5,17 +5,14 @@ import Question from '../Question/Question';
 
 const Blogs = () => {
   const questions = useLoaderData();
-  console.log(questions);
+  
   return (
-    <div className=''>
+    <div className='blogs-container'>
       <Banner>Blogs</Banner>
-      <div className='category-container flex flex-col gap-3'>
-        {
-          questions.map(singleQuestion => <Question
-          key={singleQuestion.id}
-          singleQuestion={singleQuestion}
-          ></Question>)
-        }
+      <div className='question-container grid grid-cols-1 md:grid-cols-2 gap-8'>
+        {questions.map((singleQuestion) => (
+          <Question key={singleQuestion.id} singleQuestion={singleQuestion} />
+        ))}
       </div>
     </div>
   );
