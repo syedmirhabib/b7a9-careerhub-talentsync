@@ -16,7 +16,7 @@ This is an assignment (Assignment 9) project for Programming Hero.
 | Technologies     | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, Tailwind CSS |
 
 
-##Horizontal table
+## Horizontal table
 | Project Name | Author | Version | Release Date | License | Technologies |
 |--------------|--------|---------|--------------|---------|--------------|
 | TalentSync   | Syed Mir Habib | 1.0.0 | April 2023 (estimated) | MIT License | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, TailwindCSS |
