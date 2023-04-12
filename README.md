@@ -4,6 +4,24 @@ TalentSync is a platform for matching talented individuals with their dream jobs
 
 This is an assignment (Assignment 9) project for Programming Hero.
 
+## Project Details
+
+| Name             | Value                  |
+| ---------------- | ----------------------|
+| Project Name     | TalentSync             |
+| Author           | Syed Mir Habib         |
+| Version          | 1.0.0                  |
+| Release Date     | April 2023 (estimated) |
+| License          | MIT                    |
+| Technologies     | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, Tailwind CSS |
+
+
+##Horizontal table
+| Project Name | Author | Version | Release Date | License | Technologies |
+|--------------|--------|---------|--------------|---------|--------------|
+| TalentSync   | Syed Mir Habib | 1.0.0 | April 2023 (estimated) | MIT License | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, TailwindCSS |
+
+
 ## Assignment Requirement
 - [Drive Link](https://drive.google.com/file/d/16xJyw1UF9qzmHN8tHzgXrlrFj2noRbmr/view?usp=sharing)
 
@@ -27,14 +45,5 @@ We hope you enjoy using TalentSync to find your dream job or the perfect candida
 
 ---
 
-## Project Details
 
-| Name             | Value                  |
-| ---------------- | ----------------------|
-| Project Name     | TalentSync             |
-| Author           | Syed Mir Habib         |
-| Version          | 1.0.0                  |
-| Release Date     | April 2023 (estimated) |
-| License          | MIT                    |
-| Technologies     | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, Tailwind CSS |
 
