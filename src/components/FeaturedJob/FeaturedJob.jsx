@@ -7,7 +7,7 @@ const FeaturedJob = ({ showedJob }) => {
   return (
     <div className='border rounded-md p-5 drop-shadow-sm	flex flex-col'>
       <div className=''>
-        <img className='object-cover h-[20px] mb-10' src={logo} alt="" />
+        <img className='object-cover h-[40px] mb-10' src={logo} alt="" />
       </div>
       <p className='font-bold'>{job_title}</p>
       <p className='font-light tracking-wide	'>{company_name}</p>
