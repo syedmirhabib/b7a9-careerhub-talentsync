@@ -11,7 +11,7 @@ Check out our live site hosted on Netlify: [TalentSync](https://talentsync.netli
 
 | Name             | Value                  |
 | ---------------- | ----------------------|
-| Project Name     | TalentSync             |
+| Project Name     | [TalentSync](https://talentsync.netlify.app/)             |
 | Author           | Syed Mir Habib         |
 | Version          | 1.0.0                  |
 | Release Date     | April 2023 (estimated) |
@@ -22,7 +22,7 @@ Check out our live site hosted on Netlify: [TalentSync](https://talentsync.netli
 ## Horizontal table
 | Project Name | Author | Version | Release Date | License | Technologies |
 |--------------|--------|---------|--------------|---------|--------------|
-| TalentSync   | Syed Mir Habib | 1.0.0 | April 2023 (estimated) | MIT License | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, TailwindCSS |
+| [TalentSync](https://talentsync.netlify.app/)   | Syed Mir Habib | 1.0.0 | April 2023 (estimated) | MIT License | React, Vite, DaisyUI, Recharts, React Hot Toast, React Router Dom, TailwindCSS |
 
 
 ## Assignment Requirement
