@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1a",
+    "question": "When should you use context API?",
+    "answer": "Context API is used when you need to share data between multiple components without having to pass props through every intermediate component. It is particularly useful when you have data that needs to be accessed by many components at different levels in the component tree, and you don't want to pass props down multiple levels. For example, you can use Context API to manage the user's authentication status, theme settings, or preferred language throughout your app."
+  },
+  
+  {
+    "id": "2b",
+    "question": "What is a custom hook?",
+    "answer": "A custom hook is a function that allows you to extract reusable logic from a component and share it across multiple components. It is essentially a JavaScript function that starts with the use keyword and uses React hooks internally to provide a specific functionality. Custom hooks can be used to manage stateful logic, data fetching, event handling, and other complex operations. They can be imported and used just like any other React hook, and can help you write more modular, reusable, and testable code."
+  },
+  {
+    "id": "3c",
+    "question": "What is useRef?",
+    "answer": "useRef is a React hook that allows you to create a mutable reference to an element or a value that persists between renders. It returns a plain JavaScript object with a current property that can be assigned any value, similar to an instance property on a class. You can use useRef to reference DOM nodes, store previous values, cache expensive computations, or hold onto mutable state that doesn't trigger a re-render. Unlike state or props, changes to the current property of a useRef object do not trigger a re-render of the component."
+  },
+  {
+    "id": "4d",
+    "question": "What is useMemo?",
+    "answer": "useMemo is a React hook that allows you to memoize the result of a function and recompute it only when its dependencies have changed. It takes two arguments: a function that returns a value, and an array of dependencies that the function relies on. useMemo runs the function only when at least one of the dependencies has changed, and returns the memoized result. This can help you optimize expensive computations or avoid unnecessary re-renders caused by prop changes. However, it's important to use useMemo judiciously, as it can add complexity to your code and should be used only when the benefits outweigh the costs."
+  }
+]
