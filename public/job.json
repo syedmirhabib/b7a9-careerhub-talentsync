@@ -1,0 +1,138 @@
+{
+  "jobs": [
+
+
+    {
+      "id": "7h-8i-9j",
+      "logo": "https://i.ibb.co/mq3BtDh/brain-station-23-logo.png",
+      "job_title": "Frontend Developer",
+      "company_name": "Brain Station 23",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "80k - 110k",
+      "job_description": "We are looking for a talented Frontend Developer to join our team and help us build cutting-edge web applications.",
+      "job_responsibility": "Collaborate with cross-functional teams to design and develop responsive, user-friendly web applications. Write clean, maintainable code and optimize for performance. Participate in code reviews and contribute to the continuous improvement of our development process.",
+      "educational_requirements": "Bachelor's degree in Computer Science or a related field",
+      "experiences": "2+ years of experience in frontend development, with a strong portfolio showcasing previous work",
+      "contact_information": [
+        {
+          "phone": "555-1234",
+          "email": "jobs@brainstation-23.com"
+        }
+      ]
+    },
+    
+
+
+    {
+      "id": "7g-8h-9i",
+      "logo": "https://i.ibb.co/ZYV7kHk/shikho-logo.png",
+      "job_title": "Senior Android Developer",
+      "company_name": "Shikho",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "110k - 180k",
+      "job_description": "We are looking for an experienced Android developer to help us build and maintain our educational app.",
+      "job_responsibility": "Design and develop high-quality, scalable, and maintainable Android applications. Collaborate with cross-functional teams to ensure successful product launches. Keep up to date with the latest trends and technologies in mobile development.",
+      "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or a related field",
+      "experiences": "5+ years of experience in Android development, with a strong portfolio showcasing previous work",
+      "contact_information": [
+        {
+          "phone": "555-1234",
+          "email": "jobs@shikho.com"
+        }
+      ]
+    },
+    
+    {
+      "id": "8h-9i-0j",
+      "logo": "https://i.ibb.co/VBZw0rP/intelligent-machines-logo.png",
+      "job_title": "Data Scientist",
+      "company_name": "Intelligent Machines",
+      "remote_or_onsite": "Onsite",
+      "location": "Toronto, Canada",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "120k - 150k",
+      "job_description": "We are seeking a talented Data Scientist to help us develop and implement machine learning algorithms and models.",
+      "job_responsibility": "Design and develop machine learning algorithms and models to analyze and interpret complex data sets. Collaborate with cross-functional teams to identify opportunities for machine learning applications. Communicate findings and results to stakeholders.",
+      "educational_requirements": "Master's or PhD in Computer Science, Statistics, or a related field",
+      "experiences": "3+ years of experience in data science or a related field",
+      "contact_information": [
+        {
+          "phone": "555-5678",
+          "email": "jobs@intelligentmachines.com"
+        }
+      ]
+    },
+    
+    {
+      "id": "9i-0j-1k",
+      "logo": "https://i.ibb.co/2Wkwn5g/shopup-logo.png",
+      "job_title": "Senior Frontend Engineer",
+      "company_name": "ShopUp",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "130k - 190k",
+      "job_description": "We are looking for an experienced Frontend Engineer to help us build and maintain our e-commerce platform.",
+      "job_responsibility": "Design and develop high-quality, scalable, and maintainable frontend applications. Collaborate with cross-functional teams to ensure successful product launches. Keep up to date with the latest trends and technologies in frontend development.",
+      "educational_requirements": "Bachelor's degree in Computer Science, Engineering, or a related field",
+      "experiences": "5+ years of experience in frontend development, with a strong portfolio showcasing previous work",
+      "contact_information": [
+        {
+          "phone": "555-9012",
+          "email": "jobs@shopup.com"
+        }
+      ]
+    },
+
+       {
+"id": "5e-6f-7g",
+"logo": "https://i.ibb.co/vzRgjFy/pathao-logo.png",
+"job_title": "Mobile Developer",
+"company_name": "Pathao",
+"remote_or_onsite": "Onsite",
+"location": "Dhaka, Bangladesh",
+"fulltime_or_parttime": "Full-time",
+"salary": "70k - 100k",
+"job_description": "We're looking for a talented Mobile Developer to join our growing team and help us build innovative solutions for our customers.",
+"job_responsibility": "Design, develop, and maintain mobile applications for iOS and Android platforms. Collaborate with cross-functional teams to identify and solve technical challenges. Stay up-to-date with new mobile technologies and best practices.",
+"educational_requirements": "Bachelor's or Master's degree in Computer Science, Computer Engineering or a related field",
+"experiences": "3+ years of experience in mobile development or a related field",
+"contact_information": [
+{
+"phone": "+880 96 78900000",
+"email": "jobs@pathao.com"
+}
+]
+},
+
+
+
+{
+  "id": "6f-7g-8h",
+  "logo": "https://i.ibb.co/sbBt8Zj/programming-hero-logo.png",
+  "job_title": "Content Writer",
+  "company_name": "Programming Hero",
+  "remote_or_onsite": "Remote",
+  "location": "Anywhere",
+  "fulltime_or_parttime": "Part-time",
+  "salary": "Negotiable",
+  "job_description": "We're looking for a talented Content Writer to create engaging and informative content for our programming courses.",
+  "job_responsibility": "Write clear and concise content for our programming courses. Collaborate with our development team to ensure that the content aligns with the course material. Conduct research on industry trends and best practices.",
+  "educational_requirements": "Bachelor's degree in English, Journalism, or a related field",
+  "experiences": "3+ years of experience in content writing or a related field",
+  "contact_information": [
+  {
+  "phone": "+1 555-7890",
+  "email": "jobs@programminghero.com"
+  }
+  ]
+  }
+    
+
+
+  ]
+}
