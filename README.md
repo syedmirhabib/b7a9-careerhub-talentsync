@@ -4,6 +4,9 @@ TalentSync is a platform for matching talented individuals with their dream jobs
 
 This is an assignment (Assignment 9) project for Programming Hero.
 
+## Live Link
+Check out our live site hosted on Netlify: [TalentSync](https://talentsync.netlify.app/)
+
 ## Project Details
 
 | Name             | Value                  |
@@ -25,8 +28,7 @@ This is an assignment (Assignment 9) project for Programming Hero.
 ## Assignment Requirement
 - [Drive Link](https://drive.google.com/file/d/1J8jhYsTxi78ed8lQDfSp5HpHcxNpTakZ/view)
 
-## Live Link
-Check out our live site hosted on Netlify: [TalentSync](https://talentsync.netlify.app/)
+
 
 ## Libraries and Tools
 Here are some of the libraries and tools we used to build this site:
