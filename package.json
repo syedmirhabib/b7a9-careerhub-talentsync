@@ -1,5 +1,5 @@
 {
-  "name": "talent-sync",
+  "name": "job-provider",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -20,6 +20,7 @@
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
     "react-router-dom": "^6.10.0",
+    "recharts": "^2.5.0",
     "sort-by": "^0.0.2"
   },
   "devDependencies": {
